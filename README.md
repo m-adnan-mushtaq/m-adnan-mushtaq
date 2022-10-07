@@ -14,7 +14,7 @@
  <img src="https://komarev.com/ghpvc/?username=Malik164" />
 </div>
 
-#:wave: Hi Dear!
+##:wave: Hi Dear!
 
 ### :man_technologist: About Me :
 Hard-working MERN stack developer with a flair for creating elegant solutions in the least amount of time. Developed a Twitter Clone with all functionalities, a blog with post editor with dashborad managing posts tools, developed a news website using almost 10+ diffrent api's like weather, covid, news..,. Passionate about WEB 3.O  and cloud computing, always love to learn new technologies
