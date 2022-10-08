@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="avatar.png" width="100"/>
+  ###  Techy nerd who loves playing around with new neat stuff
   <div id="badges">
   <a href="https://www.linkedin.com/in/m-adnan-mushtaq-45368a239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
