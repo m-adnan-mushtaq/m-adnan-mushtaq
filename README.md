@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="avatar.png" width="100"/>
-  ###  Techy nerd who loves playing around with new neat stuff:
+ 
   <div id="badges">
   <a href="https://www.linkedin.com/in/m-adnan-mushtaq-45368a239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,9 +17,10 @@
 
 # :wave: Hi Dear!
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
+###  Techy nerd who loves playing around with new neat stuff
 Hard-working MERN stack developer with a flair for creating elegant solutions in the least amount of time. Developed a Twitter Clone with all functionalities, a blog with post editor with dashborad managing posts tools, developed a news website using almost 10+ diffrent api's like weather, covid, news..,. Passionate about WEB 3.O  and cloud computing, always love to learn new technologies
-
+ 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
