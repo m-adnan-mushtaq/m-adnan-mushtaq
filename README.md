@@ -19,7 +19,11 @@
 
 ## :man_technologist: About Me :
 ###  Techy nerd who loves playing around with new neat stuff
-Hard-working MERN stack developer with a flair for creating elegant solutions in the least amount of time. Developed a Twitter Clone with all functionalities, a blog with post editor with dashborad managing posts tools, developed a news website using almost 10+ diffrent api's like weather, covid, news..,. Passionate about WEB 3.O  and cloud computing, always love to learn new technologies
+A motivated individual with in-depth knowledge of full stack web
+development with 2+ years of experience, seeking a position in a
+growth-oriented company where I can use my skills to the
+advantage of the company while having the scope to develop my
+own skills. Passionate about WEB 3.O  and cloud computing, always love to learn new technologies
  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
