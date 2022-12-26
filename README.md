@@ -13,6 +13,7 @@
   </a>
 </div>
  <img src="https://komarev.com/ghpvc/?username=Malik164" />
+ <img src="https://www.codewars.com/users/adnan-malik/badges/micro" />
 </div>
 
 # :wave: Hi Dear!
