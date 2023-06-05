@@ -8,8 +8,8 @@
   <a href="https://www.fiverr.com/adnan__malik?up_rollout=true">
     <img src="https://img.shields.io/badge/-Fiverr-%231dbf73?style=for-the-badge&logo=fiverr&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/randomlines001">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.instagram.com/dani__graphicz/">
+    <img src="https://img.shields.io/badge/Insta-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Follow"/>
   </a>
 </div>
  <img src="https://komarev.com/ghpvc/?username=Malik164" />
