@@ -60,7 +60,6 @@ own skills. Passionate about WEB 3.O  and cloud computing, always love to learn 
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adnan-maliik)](https://git.io/streak-stats)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=adnan-maliik&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-maliik)](https://github.com/anuraghazra/github-readme-stats)
