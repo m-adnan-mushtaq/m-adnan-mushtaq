@@ -58,10 +58,6 @@ own skills. Passionate about WEB 3.O  and cloud computing, always love to learn 
 </div>
 
 ### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-adnan-mushtaq)](https://git.io/streak-stats)
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-adnan-mushtaq)](https://github.com/anuraghazra/github-readme-stats)
 
 
