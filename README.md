@@ -18,7 +18,7 @@
 
 # :wave: Hi Dear!
 
-## :man_technologist: About Me :
+## 👨‍💻: About Me :
 ###  Techy nerd who loves playing around with new neat stuff
 A motivated individual with in-depth knowledge of full stack web
 development with 2+ years of experience, seeking a position in a
@@ -26,7 +26,7 @@ growth-oriented company where I can use my skills to the
 advantage of the company while having the scope to develop my
 own skills. Passionate about WEB 3.O  and cloud computing, always love to learn new technologies
  
-### :hammer_and_wrench: Languages and Tools :
+### 🔨🔍: Languages and Tools :
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -59,7 +59,7 @@ own skills. Passionate about WEB 3.O  and cloud computing, always love to learn 
  
 </div>
 
-### :fire: My Stats :
+### 🔥: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-adnan-mushtaq)](https://github.com/anuraghazra/github-readme-stats)
 
 
