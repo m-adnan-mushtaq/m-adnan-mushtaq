@@ -1,21 +1,11 @@
 <div id="header" align="center">
   <img src="avatar.png" width="100"/>
- 
-  <div id="badges">
+  <div>
   <a href="https://www.linkedin.com/in/m-adnan-mushtaq-45368a239/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://www.upwork.com/freelancers/~01495ccf81f29246e6">
-    <img src="https://img.shields.io/badge/-Upwork-%84cc16?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" tile="Upwork Profie" />
-  </a>
-  <a href="https://www.fiverr.com/adnan__malik?up_rollout=true">
-    <img src="https://img.shields.io/badge/-Fiverr-%231dbf73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-  </a>
- 
-</div>
 <img src="https://img.shields.io/badge/-3%2B%20Years%20Experience-%23007BFF?style=for-the-badge&logo=medal&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=Malik164&style=for-the-badge&abbreviated=true&color=green" />
-<img src="https://img.shields.io/badge/-Delivered%2050%2B%20Projects-%23F39C12?style=for-the-badge&logo=check-circle&logoColor=white" />
 </div>
 
 # :wave: Hi Dear!
