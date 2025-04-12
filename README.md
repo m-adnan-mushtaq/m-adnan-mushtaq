@@ -56,5 +56,5 @@ own skills. Passionate about WEB 3.O  and cloud computing, always love to learn 
 ### 🔥: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-adnan-mushtaq&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=m-adnan-mushtaq&theme=onedark&row=2&column=3)](https://github.com/m-adnan-mushtaq)
 
