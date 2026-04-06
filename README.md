@@ -23,6 +23,7 @@ Full-stack engineer focused on **SaaS**, **AI-powered automation**, and **produc
 If you’re building a **SaaS product**, **automating operations**, or **adding AI** to an existing system — I’m open to serious projects and long-term collaborations.
 
 **Email:** [madnandeveloper@gmail.com](mailto:madnandeveloper@gmail.com)
+**WhatsApp :** [+923089023002](tel:+923089023002)
 
 *Reply with a short overview of the problem, timeline, and stack — I’ll respond with a clear next step.*
 
@@ -33,10 +34,6 @@ If you’re building a **SaaS product**, **automating operations**, or **adding 
  **LinkedIn:** `https://www.linkedin.com/in/m-adnan-mushtaq`
 
 ---
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-adnan-mushtaq&show_icons=true&hide_title=true" alt="GitHub stats" />
-</p>
 
 ### 🔨🔍: Languages and Tools :
 <div>
@@ -73,8 +70,4 @@ If you’re building a **SaaS product**, **automating operations**, or **adding 
  
 </div>
 
-### 🔥: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-adnan-mushtaq&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=m-adnan-mushtaq&theme=onedark&row=2&column=3)](https://github.com/m-adnan-mushtaq)
 
