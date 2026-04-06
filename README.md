@@ -8,16 +8,36 @@
 <img src="https://komarev.com/ghpvc/?username=Malik164&style=for-the-badge&abbreviated=true&color=green" />
 </div>
 
-# :wave: Hi Dear!
+# Adnan Mushtaq
 
-## 👨‍💻: About Me :
-###  Techy nerd who loves playing around with new neat stuff
-A motivated individual with in-depth knowledge of full stack web
-development with 3+ years of experience, seeking a position in a
-growth-oriented company where I can use my skills to the
-advantage of the company while having the scope to develop my
-own skills. Passionate about WEB 3.O  and cloud computing, always love to learn new technologies
- 
+Full-stack engineer focused on **SaaS**, **AI-powered automation**, and **production systems** — multi-tenant platforms, integrations, workflows, and LLM/RAG-style features. I care about shipping software that survives real users, edge cases, and scale.
+
+**Stack (high level):** NestJS · Next.js · Node.js · Python/FastAPI · TypeScript · PostgreSQL · MongoDB · Redis · AWS · Docker · CI/CD  
+
+**AI:** OpenAI · LangChain · LangGraph · RAG pipelines · AI agents & workflow automation  
+
+---
+
+### Work with me
+
+If you’re building a **SaaS product**, **automating operations**, or **adding AI** to an existing system — I’m open to serious projects and long-term collaborations.
+
+**Email:** [madnandeveloper@gmail.com](mailto:madnandeveloper@gmail.com)
+
+*Reply with a short overview of the problem, timeline, and stack — I’ll respond with a clear next step.*
+
+---
+
+### Links
+
+ **LinkedIn:** `https://www.linkedin.com/in/m-adnan-mushtaq`
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-adnan-mushtaq&show_icons=true&hide_title=true" alt="GitHub stats" />
+</p>
+
 ### 🔨🔍: Languages and Tools :
 <div>
 
