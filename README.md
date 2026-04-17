@@ -11,10 +11,21 @@
 # Adnan Mushtaq
 
 Full-stack engineer focused on **SaaS**, **AI-powered automation**, and **production systems** — multi-tenant platforms, integrations, workflows, and LLM/RAG-style features. I care about shipping software that survives real users, edge cases, and scale.
+```
+╭─ SYSTEM PROFILE ─────────────────────────╮
+│ role      :: fullstack + ai engineer     │
+│ backend   :: NestJS · Node · FastAPI     │
+│ frontend  :: Next.js · TypeScript        │
+│ data      :: PostgreSQL · MongoDB · Redis│
+│ infra     :: AWS · Docker · CI/CD        │
+╰──────────────────────────────────────────╯
 
-**Stack (high level):** NestJS · Next.js · Node.js · Python/FastAPI · TypeScript · PostgreSQL · MongoDB · Redis · AWS · Docker · CI/CD  
+╭─ AI MODULE ───────────────────────────────╮
+│ stack     :: OpenAI · LangChain · LangGraph
+│ systems   :: RAG · agents · workflows    │
+╰──────────────────────────────────────────╯
 
-**AI:** OpenAI · LangChain · LangGraph · RAG pipelines · AI agents & workflow automation  
+```
 
 ---
 
